@@ -1,0 +1,22 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: rayan-1005
+      - run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A
+          git commit -m "Generate 3D contribution graph"
+          git push
