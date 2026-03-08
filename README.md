@@ -8,7 +8,8 @@
 
 <br/>
 
-<!-- socials -->
+<!-- Profile views & socials -->
+![Profile Views](https://komarev.com/ghpvc/?username=rayan-1005&color=6ad3f7&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rayan--yanyan10-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayan-yanyan10)
 [![Email](https://img.shields.io/badge/Email-mohammedrayan771@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedrayan771@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rayan--1005-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rayan-1005)
@@ -94,16 +95,6 @@ const rayan = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rayan-1005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -114,15 +105,11 @@ const rayan = {
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions!
+## 🌐 My Contribution Globe
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayan-1005/rayan-1005/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayan-1005/rayan-1005/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rayan-1005/rayan-1005/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/rayan-1005/rayan-1005/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Globe" />
 
 </div>
 
@@ -148,3 +135,5 @@ const rayan = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 *"First, solve the problem. Then, write the code." – John Johnson*
+
+</div>
